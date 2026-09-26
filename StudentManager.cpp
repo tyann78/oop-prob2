@@ -50,7 +50,7 @@ void StudentManager::saveToFile() {
 }
 
 bool StudentManager::insertStudent(const Student& student) {
-    // 重複チェック
+    // Duplicate Check
     for (const auto& existing : students) {
         if (existing.studentId == student.studentId) {
             return false;
