@@ -1,2 +1,3 @@
 Lisa Simpson	2006303001	2000	Computer Engineering	01012345678
 Gildong Hong	2004303077	1999	Computer Engineering	01187651234
+Bob Aria	2021123456	2002	Mathematics	01055556666
