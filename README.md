@@ -12,8 +12,7 @@ Using the provided Makefile:
 $ make
 
 (Alternatively, direct compilation without Makefile:
-$ g++ -std=c++11 -Wall -o a.exe main.cpp StudentManager.cpp
-)
+$ g++ -std=c++11 -Wall -o a.exe main.cpp StudentManager.cpp)
 
 How to Execute
 Run the executable with the database text file name as a command-line argument:
